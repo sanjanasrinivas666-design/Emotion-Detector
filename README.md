@@ -14,8 +14,8 @@ The model is trained on a subset of the GoEmotions dataset and can take real-tim
 ## 👥 Team Members
 
 * Sanjana S
-* MonishaMK
-* Sukhi roy
+* Monisha MK
+* Sukhi roy Y
 * Chithra 
   
 
